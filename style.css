@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+nav{
+    background-color: beige;
+    display: flex;
+    box-shadow: 1px 2px rgba(245, 245, 220, 0.623);
+}
+#logo{
+    padding: 5px 4px;
+    margin-right: auto;;
+}
+#info{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+a:hover{
+    color: rgb(192, 4, 4);
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
